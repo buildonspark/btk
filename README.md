@@ -1,3 +1,3 @@
-# lrc20
+# BTK (Bitcoin Token)
 
-a protocol that supports digital assets on bitcoin
+BTK (Bitcoin Token) is our adaptation of the LRC-20 protocol, specifically optimized for Spark.
